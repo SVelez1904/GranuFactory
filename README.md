@@ -6,3 +6,4 @@ The application was designed to streamline the ordering process, reduce manual a
 Frontend: React/Vite
 Backend: Java/Springboot, JWT (for authorization)
 Database: OracleCloud
+Automatization Server: Jenkins (for CI/CD)
